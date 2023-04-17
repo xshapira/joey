@@ -16,7 +16,9 @@
   "keywords": [
     "icon-theme",
     "theme",
-    "bear"
+    "dark theme",
+    "bear",
+    "quokka"
   ],
   "homepage": "https://github.com/xshapira/quokka-theme",
   "icon": "icon.png",
@@ -36,8 +38,8 @@
     ]
   },
   "__metadata": {
-    "id": "e2fafe48-b7d2-4403-9711-327bcf332644",
+    "id": "e3570a10-3c79-41d6-8d25-14677f580323",
     "publisherDisplayName": "xshapira",
-    "publisherId": "6c823c35-2b87-4fd2-80b1-fcb15cacef33"
+    "publisherId": "ecce09a8-60f3-6cfd-adf0-f40a6a1971e9"
   }
 }

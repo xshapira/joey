@@ -17,10 +17,14 @@ A minimal yet powerful theme that maximizes productivity.
   <img alt="quokka-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/quokka-theme/main/quokka-theme-snap-2.png">
 </p>
 
+<p align="center">
+  <img alt="quokka-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/quokka-theme/main/quokka-theme-snap-3.png">
+</p>
+
 ## In preview
 
 The font in preview is [MonoLisa](https://www.monolisa.dev/).
 
 ## Other
 
-This theme is a next-level version of [shaodahong](https://github.com/shaodahong/)'s fantastic [bear theme](https://github.com/shaodahong/theme-bear), now improved and updated to offer even more to your productivity. 
+This theme is a next-level version of [shaodahong](https://github.com/shaodahong/)'s fantastic [bear theme](https://github.com/shaodahong/theme-bear), now improved and updated to offer even more to your productivity.

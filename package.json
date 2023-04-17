@@ -1,43 +1,43 @@
 {
-	"name": "theme-bear",
-	"displayName": "Bear Theme",
-	"description": "A simple and easy to use theme",
-	"version": "1.2.1",
-	"publisher": "dahong",
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/shaodahong/theme-bear"
-	},
-	"bugs": {
-		"url": "https://github.com/shaodahong/theme-bear/issues",
-		"email": "darryshaw@gmail.com"
-	},
-	"keywords": [
-		"icon-theme",
-		"theme",
-		"bear"
-	],
-	"homepage": "https://github.com/shaodahong/theme-bear",
-	"icon": "icon.png",
-	"engines": {
-		"vscode": "^1.13.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Bear Theme",
-				"uiTheme": "vs-dark",
-				"path": "./themes/bear-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "e2fafe48-b7d2-4403-9711-327bcf332644",
-		"publisherDisplayName": "dahong",
-		"publisherId": "6c823c35-2b87-4fd2-80b1-fcb15cacef33"
-	}
+  "name": "quokka-theme",
+  "displayName": "Quokka Theme",
+  "description": "A minimal yet powerful theme that maximizes productivity",
+  "version": "3.0.0",
+  "publisher": "xshapira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xshapira/quokka-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/xshapira/quokka-theme/issues",
+    "email": "max@winoutt.com"
+  },
+  "keywords": [
+    "icon-theme",
+    "theme",
+    "bear"
+  ],
+  "homepage": "https://github.com/xshapira/quokka-theme",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quokka Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quokka-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "e2fafe48-b7d2-4403-9711-327bcf332644",
+    "publisherDisplayName": "xshapira",
+    "publisherId": "6c823c35-2b87-4fd2-80b1-fcb15cacef33"
+  }
 }

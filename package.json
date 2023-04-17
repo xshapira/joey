@@ -23,7 +23,7 @@
   "homepage": "https://github.com/xshapira/quokka-theme",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"

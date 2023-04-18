@@ -1,6 +1,6 @@
-<h1 align="center">Quokka Theme</h1>
+<h1 align="center">joey</h1>
 <p align="center">
-  <img alt="icon" width="20%" src="https://raw.githubusercontent.com/xshapira/quokka-theme/main/icon.png">
+  <img alt="icon" width="20%" src="https://raw.githubusercontent.com/xshapira/joey/main/icon.png">
 </p>
 
 A minimal yet powerful theme that maximizes productivity.
@@ -10,15 +10,15 @@ A minimal yet powerful theme that maximizes productivity.
 - [x] Built-in support for Python syntax
 
 <p align="center">
-  <img alt="quokka-theme-snap" width="80%" src="https://raw.githubusercontent.com/xshapira/quokka-theme/main/quokka-theme-snap.png">
+  <img alt="joey-theme-snap" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/joey-theme-snap.png">
 </p>
 
 <p align="center">
-  <img alt="quokka-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/quokka-theme/main/quokka-theme-snap-2.png">
+  <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/joey-theme-snap-2.png">
 </p>
 
 <p align="center">
-  <img alt="quokka-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/quokka-theme/main/quokka-theme-snap-3.png">
+  <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/joey-theme-snap-3.png">
 </p>
 
 ## In preview

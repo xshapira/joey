@@ -1,6 +1,6 @@
-# Quokka theme for Visual Studio Code
+# joey theme for Visual Studio Code
 
-Source from: https://github.com/xshapira/quokka-theme
+Source from: https://github.com/xshapira/joey
 
 ## 3.0.0
 

@@ -1,16 +1,16 @@
 {
-  "name": "quokka-theme",
-  "displayName": "Quokka Theme",
+  "name": "joey-theme",
+  "displayName": "joey",
   "description": "A minimal yet powerful theme that maximizes productivity",
   "version": "3.0.0",
   "publisher": "xshapira",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xshapira/quokka-theme"
+    "url": "https://github.com/xshapira/joey"
   },
   "bugs": {
-    "url": "https://github.com/xshapira/quokka-theme/issues",
+    "url": "https://github.com/xshapira/joey/issues",
     "email": "max@winoutt.com"
   },
   "keywords": [
@@ -18,9 +18,9 @@
     "theme",
     "dark theme",
     "bear",
-    "quokka"
+    "joey"
   ],
-  "homepage": "https://github.com/xshapira/quokka-theme",
+  "homepage": "https://github.com/xshapira/joey",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.77.0"
@@ -31,14 +31,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Quokka Theme",
+        "label": "joey",
         "uiTheme": "vs-dark",
-        "path": "./themes/quokka-color-theme.json"
+        "path": "./themes/joey-color-theme.json"
       }
     ]
   },
   "__metadata": {
-    "id": "e3570a10-3c79-41d6-8d25-14677f580323",
+    "id": "8b639f24-a4d6-4baf-94f8-267c9509c362",
     "publisherDisplayName": "xshapira",
     "publisherId": "ecce09a8-60f3-6cfd-adf0-f40a6a1971e9"
   }

@@ -3,7 +3,7 @@
   <img alt="icon" width="20%" src="https://raw.githubusercontent.com/xshapira/joey/main/icon.png">
 </p>
 
-A minimal yet powerful theme that maximizes productivity.
+A minimal theme that can help you focus swimmingly.
 
 - [x] Eye-friendly highlighting
 - [x] Optimized for focus

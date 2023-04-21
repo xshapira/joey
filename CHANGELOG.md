@@ -3,7 +3,7 @@
 Source from: https://github.com/xshapira/joey
 
 ## 3.0.2
-- Update package description for clarity and accuracy
+- Improve package description for clarity and accuracy
 - Update package description and screenshots path in README
 - Move code screenshots to dedicated folder
 

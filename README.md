@@ -3,22 +3,22 @@
   <img alt="icon" width="20%" src="https://raw.githubusercontent.com/xshapira/joey/main/icon.png">
 </p>
 
-A minimal theme that can help you focus swimmingly.
+A minimal theme that helps you focus swimmingly.
 
 - [x] Eye-friendly highlighting
 - [x] Optimized for focus
 - [x] Built-in support for Python syntax
 
 <p align="center">
-  <img alt="joey-theme-snap" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/joey-theme-snap.png">
+  <img alt="joey-theme-snap" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/screenshots/joey-theme-snap.png">
 </p>
 
 <p align="center">
-  <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/joey-theme-snap-2.png">
+  <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/screenshots/joey-theme-snap-2.png">
 </p>
 
 <p align="center">
-  <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/joey-theme-snap-3.png">
+  <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/screenshots/joey-theme-snap-3.png">
 </p>
 
 ## In preview

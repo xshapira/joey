@@ -3,7 +3,7 @@
   <img alt="icon" width="20%" src="https://raw.githubusercontent.com/xshapira/joey/main/icon.png">
 </p>
 
-A minimal theme that helps you focus swimmingly.
+A minimal theme that helps you code with joy and focus.
 
 - [x] Eye-friendly highlighting
 - [x] Optimized for focus

@@ -2,7 +2,13 @@
 
 Source from: https://github.com/xshapira/joey
 
+## 3.0.3
+- Update colors for javascript variables and objects
+- Change colors for typescript variables and parameters
+- Revise theme description to better convey the key benefits
+
 ## 3.0.2
+
 - Improve package description for clarity and accuracy
 - Update package description and screenshots path in README
 - Move code screenshots to dedicated folder

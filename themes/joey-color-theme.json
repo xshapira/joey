@@ -654,6 +654,25 @@
       }
     },
 
+    // typescript
+    {
+      "scope": [
+        "variable.other.object.ts",
+        "variable.object.property.ts",
+        "variable.parameter.ts",
+        "variable.other.constant.ts"
+      ],
+      "settings": {
+        "foreground": "#BCB38D"
+      }
+    },
+    {
+      "scope": ["variable.language.this.ts", "meta.object-literal.key.ts"],
+      "settings": {
+        "foreground": "#E6844F"
+      }
+    },
+
     // python
     {
       "scope": [

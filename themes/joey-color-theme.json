@@ -631,7 +631,9 @@
         "entity.name.type.instance.js",
         "variable.language.this.js",
         "variable.language.self.js",
-        "support.type.object.console.js"
+        "support.type.object.console.js",
+        "variable.other.readwrite.js",
+        "variable.other.property.js"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -643,9 +645,9 @@
         "support.variable.property",
         "support.variable.object.process",
         "support.variable.object.node",
-        "variable.other.readwrite.js",
-        "variable.other.property.js",
-        "keyword.operator.accessor.js"
+        "keyword.operator.accessor.js",
+        "variable.other.object.js",
+        "support.type.object.dom.js"
       ],
       "settings": {
         "foreground": "#bcb28d"

@@ -705,11 +705,7 @@
       }
     },
     {
-      "scope": [
-        "storage.type.class.python",
-        "storage.type.function.python",
-        "support.type.python"
-      ],
+      "scope": ["storage.type.class.python", "storage.type.function.python"],
       "settings": {
         "foreground": "#E03C8A"
       }
@@ -765,6 +761,12 @@
       ],
       "settings": {
         "foreground": "#DDA52D"
+      }
+    },
+    {
+      "scope": ["support.type.python"],
+      "settings": {
+        "foreground": "#f97583"
       }
     },
 

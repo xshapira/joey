@@ -2,7 +2,12 @@
 
 Source from: https://github.com/xshapira/joey
 
+## 3.0.4
+- Update syntax highlighting for Python types
+- Change color for assignment operators
+
 ## 3.0.3
+
 - Update colors for javascript variables and objects
 - Change colors for typescript variables and parameters
 - Revise theme description to better convey the key benefits

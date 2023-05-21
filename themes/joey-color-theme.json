@@ -518,7 +518,7 @@
     {
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#F97583"
+        "foreground": "#47c0c3"
       }
     },
     {
@@ -620,12 +620,6 @@
 
     // javascript
     {
-      "scope": ["keyword.operator.assignment.js"],
-      "settings": {
-        "foreground": "#47c0c3"
-      }
-    },
-    {
       "scope": [
         "entity.name.class.js",
         "entity.name.type.instance.js",
@@ -674,6 +668,12 @@
     },
 
     // python
+    {
+      "scope": ["keyword.operator.assignment.python"],
+      "settings": {
+        "foreground": "#F97583"
+      }
+    },
     {
       "scope": [
         "meta.function-call.python",

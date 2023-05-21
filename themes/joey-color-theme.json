@@ -449,7 +449,7 @@
       "scope": "variable.language",
       "settings": {
         "foreground": "#58b2dc",
-        "fontStyle": "italic"
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -719,7 +719,7 @@
       ],
       "settings": {
         "foreground": "#58b2dc",
-        "fontStyle": "italic"
+        "fontStyle": "italic bold"
       }
     },
     {

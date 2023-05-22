@@ -2,7 +2,12 @@
 
 Source from: https://github.com/xshapira/joey
 
+## 3.0.5
+- Add bold font style to 'this' and 'self' keywords
+- Revert color for assignment operators, apply changes to Python only
+
 ## 3.0.4
+
 - Update syntax highlighting for Python types
 - Change color for assignment operators
 

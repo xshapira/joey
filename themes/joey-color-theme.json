@@ -653,11 +653,10 @@
       "scope": [
         "variable.other.object.ts",
         "variable.object.property.ts",
-        "variable.parameter.ts",
-        "variable.other.constant.ts"
+        "variable.parameter.ts"
       ],
       "settings": {
-        "foreground": "#BCB38D"
+        "foreground": "#58b2dc"
       }
     },
     {

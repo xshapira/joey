@@ -665,6 +665,12 @@
         "foreground": "#E6844F"
       }
     },
+    {
+      "scope": ["support.type.primitive.ts"],
+      "settings": {
+        "foreground": "#f97583"
+      }
+    },
 
     // python
     {

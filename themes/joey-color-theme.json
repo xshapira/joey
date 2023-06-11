@@ -771,7 +771,7 @@
     {
       "scope": ["support.type.python"],
       "settings": {
-        "foreground": "#f97583"
+        "foreground": "#e85470"
       }
     },
 

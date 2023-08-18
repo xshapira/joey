@@ -748,7 +748,8 @@
         "meta.function-call.arguments.python",
         "meta.indexed-name.python",
         "variable.legacy.builtin.python",
-        "variable.parameter.function.language.python"
+        "variable.parameter.function.language.python",
+        "punctuation.separator.parameters.python"
       ],
       "settings": {
         "foreground": "#bcb28d"

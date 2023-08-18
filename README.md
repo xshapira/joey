@@ -5,9 +5,9 @@
 
 A minimal theme that helps you code with joy and focus.
 
-- [x] Eye-friendly highlighting
-- [x] Optimized for focus
-- [x] Built-in support for Python syntax
+* [x] Eye-friendly highlighting
+* [x] Optimized for focus
+* [x] Support for Python syntax
 
 <p align="center">
   <img alt="joey-theme-snap" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/screenshots/joey-theme-snap.png">

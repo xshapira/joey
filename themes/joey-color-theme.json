@@ -702,7 +702,6 @@
         "support.function.magic.python",
         "support.type.exception.python",
         "constant.character.format.placeholder.other.python",
-        "storage.type.string.python",
         "support.variable.magic.python",
         "support.function.builtin.python"
       ],
@@ -714,6 +713,12 @@
       "scope": ["storage.type.class.python", "storage.type.function.python"],
       "settings": {
         "foreground": "#E03C8A"
+      }
+    },
+    {
+      "scope": ["storage.type.string.python"],
+      "settings": {
+        "foreground": "#be7af9"
       }
     },
     {

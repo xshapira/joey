@@ -686,7 +686,8 @@
         "entity.other.inherited-class.python",
         "keyword.control.flow.python",
         "variable.parameter.function-call.python",
-        "constant.other.caps.python"
+        "constant.other.caps.python",
+        "meta.function.parameters.python"
       ],
       "settings": {
         "foreground": "#58b2dc"

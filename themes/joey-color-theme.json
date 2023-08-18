@@ -703,7 +703,8 @@
         "support.type.exception.python",
         "constant.character.format.placeholder.other.python",
         "storage.type.string.python",
-        "support.variable.magic.python"
+        "support.variable.magic.python",
+        "support.function.builtin.python"
       ],
       "settings": {
         "foreground": "#E6844F"

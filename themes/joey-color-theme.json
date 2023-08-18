@@ -684,7 +684,6 @@
         "meta.function-call.python",
         "keyword.operator.logical.python",
         "entity.other.inherited-class.python",
-        "variable.parameter.function.language.python",
         "keyword.control.flow.python",
         "variable.parameter.function-call.python",
         "constant.other.caps.python"
@@ -747,7 +746,8 @@
         "meta.attribute.python",
         "meta.function-call.arguments.python",
         "meta.indexed-name.python",
-        "variable.legacy.builtin.python"
+        "variable.legacy.builtin.python",
+        "variable.parameter.function.language.python"
       ],
       "settings": {
         "foreground": "#bcb28d"

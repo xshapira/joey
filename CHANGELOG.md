@@ -2,6 +2,18 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.0
+
+* Add a section about font styles to README
+
+Update Python colors:
+
+* Update built-in function color to #E6844F
+* Change string type color to #be7af9
+* Set exception type color to #E85470
+* Update function parameter color to #BCB38D
+* Set `meta.function.parameters.python` color to #58B2DC
+
 ## 3.0.6
 
 * Improve TypeScript primitive type color

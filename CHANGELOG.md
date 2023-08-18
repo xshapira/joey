@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.1
+
+* Change python parameter separator color
+
 ## 3.1.0
 
 * Add a section about font styles to README

@@ -682,7 +682,6 @@
     {
       "scope": [
         "meta.function-call.python",
-        "constant.other.caps.python",
         "support.function.builtin.python",
         "entity.name.function.python",
         "meta.function-call.generic.python",
@@ -702,7 +701,8 @@
         "storage.type.string.python",
         "entity.other.inherited-class.python",
         "support.type.exception.python",
-        "support.type.python"
+        "support.type.python",
+        "constant.other.caps.python"
       ],
       "settings": {
         "foreground": "#E6844F"

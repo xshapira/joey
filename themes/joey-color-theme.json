@@ -682,9 +682,7 @@
     {
       "scope": [
         "meta.function-call.python",
-        "keyword.operator.logical.python",
         "entity.other.inherited-class.python",
-        "keyword.control.flow.python",
         "variable.parameter.function-call.python",
         "constant.other.caps.python",
         "meta.function.parameters.python",
@@ -709,19 +707,19 @@
       }
     },
     {
-      "scope": ["storage.type.class.python", "storage.type.function.python"],
-      "settings": {
-        "foreground": "#E03C8A"
-      }
-    },
-    {
       "scope": ["storage.type.string.python"],
       "settings": {
         "foreground": "#be7af9"
       }
     },
     {
-      "scope": ["support.type.exception.python"],
+      "scope": [
+        "keyword.control.flow.python",
+        "keyword.operator.logical.python",
+        "storage.type.class.python",
+        "storage.type.function.python",
+        "storage.type.function.async.python"
+      ],
       "settings": {
         "foreground": "#E85470"
       }

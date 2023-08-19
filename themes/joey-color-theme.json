@@ -789,7 +789,7 @@
     {
       "scope": ["variable.parameter.function-call.python"],
       "settings": {
-        "foreground": "#58B2DC",
+        "foreground": "#BCB28D",
         "fontStyle": "italic bold"
       }
     },

@@ -2,6 +2,21 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.3
+
+* Update README font styling section
+
+Python:
+
+* Change function & class colors
+* Update control flow keywords for stronger visual contrast
+* Tweak parameter and inheritance colors for consistency
+* Add separator annotation punctuation coloring
+* Set argument access color
+* Make function parameters bold & italic for emphasis
+* Distinguish self variables with consistent coloring
+* Standardize exception and type support colors
+
 ## 3.1.1
 
 * Change python parameter separator color

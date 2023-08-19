@@ -682,7 +682,6 @@
     {
       "scope": [
         "meta.function-call.python",
-        "variable.parameter.function-call.python",
         "constant.other.caps.python",
         "support.function.builtin.python",
         "entity.name.function.python",
@@ -786,6 +785,13 @@
       "scope": ["punctuation.separator.annotation.python"],
       "settings": {
         "foreground": "#F97583"
+      }
+    },
+    {
+      "scope": ["variable.parameter.function-call.python"],
+      "settings": {
+        "foreground": "#58B2DC",
+        "fontStyle": "italic bold"
       }
     },
 

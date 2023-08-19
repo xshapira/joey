@@ -743,7 +743,8 @@
         "variable.legacy.builtin.python",
         "variable.parameter.function.language.python",
         "punctuation.separator.parameters.python",
-        "support.variable.magic.python"
+        "support.variable.magic.python",
+        "meta.item-access.arguments.python"
       ],
       "settings": {
         "foreground": "#bcb28d"

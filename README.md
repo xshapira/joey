@@ -23,9 +23,9 @@ A minimal theme that helps you code with joy and focus.
 
 ## Font Styles
 
-This theme doesn't automatically apply italic and bold styling, giving users the freedom to personalize their look.
+This theme generally avoids applying italic and bold styling by default, giving users the freedom to personalize their look. But, for improved readability, the theme does apply italic and bold styling to emphasize certain Python keywords.
 
-If you wish to use the italic/bold stylings this theme suggests for improved readability, add the following to your `settings.json` :
+If you wish to use the italic/bold stylings this theme suggests, add the following to your `settings.json` :
 
 ```json
   "editor.tokenColorCustomizations": {

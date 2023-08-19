@@ -778,7 +778,10 @@
       }
     },
     {
-      "scope": ["punctuation.separator.annotation.python"],
+      "scope": [
+        "punctuation.separator.annotation.python",
+        "keyword.operator.arithmetic.python"
+      ],
       "settings": {
         "foreground": "#F97583"
       }

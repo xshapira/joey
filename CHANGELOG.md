@@ -2,6 +2,13 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.4
+
+* Update python constant values color
+* Improve python arithmetic operator color
+* Enhance function parameter contrast in python
+* Recolor built-in python types for better readability
+
 ## 3.1.3
 
 * Update README font styling section

@@ -701,7 +701,6 @@
         "storage.type.string.python",
         "entity.other.inherited-class.python",
         "support.type.exception.python",
-        "support.type.python",
         "constant.other.caps.python"
       ],
       "settings": {
@@ -791,6 +790,12 @@
       "settings": {
         "foreground": "#BCB28D",
         "fontStyle": "italic bold"
+      }
+    },
+    {
+      "scope": ["support.type.python"],
+      "settings": {
+        "foreground": "#d279ce"
       }
     },
 

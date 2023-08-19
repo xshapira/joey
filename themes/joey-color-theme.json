@@ -781,6 +781,12 @@
         "foreground": "#e85470"
       }
     },
+    {
+      "scope": ["punctuation.separator.annotation.python"],
+      "settings": {
+        "foreground": "#F97583"
+      }
+    },
 
     // dart
     {

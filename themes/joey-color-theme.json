@@ -748,6 +748,12 @@
       }
     },
     {
+      "scope": ["punctuation.separator.annotation.python"],
+      "settings": {
+        "foreground": "#859088"
+      }
+    },
+    {
       "scope": ["string.quoted.docstring.multi.python"],
       "settings": {
         "foreground": "#707C74"

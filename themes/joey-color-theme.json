@@ -740,7 +740,8 @@
         "meta.indexed-name.python",
         "variable.legacy.builtin.python",
         "punctuation.separator.parameters.python",
-        "meta.item-access.arguments.python"
+        "meta.item-access.arguments.python",
+        "punctuation.separator.annotation.result.python"
       ],
       "settings": {
         "foreground": "#bcb28d"

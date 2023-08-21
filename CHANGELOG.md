@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.8
+
+* Standardize punctuation colors in python
+
 ## 3.1.7
 
 * Add font styles section to README

@@ -775,9 +775,15 @@
       }
     },
     {
-      "scope": ["support.type.python", "keyword.operator.arithmetic.python"],
+      "scope": ["support.type.python"],
       "settings": {
         "foreground": "#D279CF"
+      }
+    },
+    {
+      "scope": ["keyword.operator.arithmetic.python"],
+      "settings": {
+        "foreground": "#e85470"
       }
     },
     {

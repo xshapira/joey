@@ -686,8 +686,7 @@
         "entity.other.inherited-class.python",
         "variable.parameter.function.language.python",
         "keyword.control.flow.python",
-        "variable.parameter.function-call.python",
-        "constant.other.caps.python"
+        "variable.parameter.function-call.python"
       ],
       "settings": {
         "foreground": "#58b2dc"
@@ -783,6 +782,13 @@
       "scope": ["support.type.python"],
       "settings": {
         "foreground": "#e85470"
+      }
+    },
+    {
+      "scope": ["constant.other.caps.python"],
+      "settings": {
+        "foreground": "#E6844F",
+        "fontStyle": "bold"
       }
     },
 

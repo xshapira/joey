@@ -674,10 +674,7 @@
 
     // python
     {
-      "scope": [
-        "keyword.operator.assignment.python",
-        "keyword.operator.arithmetic.python"
-      ],
+      "scope": ["keyword.operator.assignment.python"],
       "settings": {
         "foreground": "#db5594"
       }
@@ -782,7 +779,7 @@
       }
     },
     {
-      "scope": ["support.type.python"],
+      "scope": ["support.type.python", "keyword.operator.arithmetic.python"],
       "settings": {
         "foreground": "#D279CF"
       }

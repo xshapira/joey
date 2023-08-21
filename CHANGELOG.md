@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.6
+
+* Make python arithmetic operators stand out better
+
 ## 3.1.5
 
 * Replace deprecated editor indent guide background settings

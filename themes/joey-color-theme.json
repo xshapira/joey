@@ -674,9 +674,12 @@
 
     // python
     {
-      "scope": ["keyword.operator.assignment.python"],
+      "scope": [
+        "keyword.operator.assignment.python",
+        "keyword.operator.arithmetic.python"
+      ],
       "settings": {
-        "foreground": "#F97583"
+        "foreground": "#db5594"
       }
     },
     {

@@ -740,16 +740,12 @@
         "variable.legacy.builtin.python",
         "punctuation.separator.parameters.python",
         "meta.item-access.arguments.python",
-        "punctuation.separator.annotation.result.python"
+        "punctuation.separator.annotation.result.python",
+        "punctuation.separator.annotation.python",
+        "punctuation.section.function.begin.python"
       ],
       "settings": {
         "foreground": "#bcb28d"
-      }
-    },
-    {
-      "scope": ["punctuation.separator.annotation.python"],
-      "settings": {
-        "foreground": "#859088"
       }
     },
     {

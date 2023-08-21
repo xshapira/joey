@@ -21,6 +21,40 @@ A minimal theme that helps you code with joy and focus.
   <img alt="joey-theme-snap-2" width="80%" src="https://raw.githubusercontent.com/xshapira/joey/main/screenshots/joey-theme-snap-3.png">
 </p>
 
+## Font Styles
+
+This theme generally avoids applying italic and bold styling by default, giving users the freedom to personalize their look. But, for better experience, the theme does apply italic and bold styling to emphasize certain Python keywords.
+
+If you wish to use the other italic/bold stylings for greater readability, add the following to your `settings.json` :
+
+```json
+ "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "italics & bold",
+        "scope": [
+          //following will be in italic bold
+          "keyword", //import, export, return…
+          "keyword.control.flow",
+          "storage.modifier", //static keyword
+          "storage.type"
+        ],
+        "settings": {
+          "fontStyle": "italic bold"
+        }
+      },
+      {
+        "name": "No italics",
+        "scope": ["comment", "keyword.operator", "keyword.key"],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+
+```
+
 ## In preview
 
 The font in preview is [MonoLisa](https://www.monolisa.dev/).

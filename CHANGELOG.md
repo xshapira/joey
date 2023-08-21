@@ -2,6 +2,22 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.5
+
+* Replace deprecated editor indent guide background settings
+
+Update Python colors:
+
+* Update `self` variables color for python
+* Improve visibility of python meta function & meta function parameters
+* Change python parameter separators color
+* Remove highlighting for python argument access
+* Set `#bcb28d` color for python return type annotations
+* Suppress python annotation punctuation to reduce visual noise
+* Modify python constant values color
+* Make python assignment & arithmetic operators clearer
+* Refine styling of python support types
+
 ## 3.0.6
 
 * Improve TypeScript primitive type color

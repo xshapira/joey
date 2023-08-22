@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.1.10
+
+* Downplay python magic variables
+
 ## 3.1.9
 
 * Make python arithmetic operators blend in more

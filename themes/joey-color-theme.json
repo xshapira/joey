@@ -1,4 +1,6 @@
 {
+  "semanticClass": "theme.joey",
+  "semanticHighlighting": true,
   "colors": {
     // base
     "focusBorder": "#1f2023",
@@ -125,6 +127,38 @@
     "gitDecoration.modifiedResourceForeground": "#76c5a4",
     "gitDecoration.untrackedResourceForeground": "#76c5a4",
     "gitDecoration.conflictingResourceForeground": "#fb7da7"
+  },
+  "semanticTokenColors": {
+    "variable": {
+      "foreground": "#BCB28D"
+    },
+    "variable.declaration.readonly": {
+      "foreground": "#E6844F"
+    },
+    "builtinConstant": {
+      "foreground": "#DDA52D"
+    },
+    "parameter": {
+      "foreground": "#BCB28D"
+    },
+    "property": {
+      "foreground": "#BCB28D"
+    },
+    "enumMember": {
+      "foreground": "#39b49d"
+    },
+    "class": {
+      "foreground": "#E6844F"
+    },
+    "selfParameter": {
+      "foreground": "#E6844F"
+    },
+    "clsParameter": {
+      "foreground": "#E6844F"
+    },
+    "magicFunction": {
+      "foreground": "#58B2DC"
+    }
   },
   "name": "theme-bear",
   "tokenColors": [

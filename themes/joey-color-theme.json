@@ -682,6 +682,7 @@
     {
       "scope": [
         "meta.function-call.python",
+        "meta.function-call.generic.python",
         "entity.other.inherited-class.python",
         "variable.parameter.function.language.python",
         "variable.parameter.function-call.python"
@@ -692,7 +693,6 @@
     },
     {
       "scope": [
-        "meta.function-call.generic.python",
         "meta.item-access.python",
         "punctuation.definition.decorator.python",
         "entity.name.function.python",

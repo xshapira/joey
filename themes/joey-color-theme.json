@@ -718,8 +718,7 @@
         "meta.function-call.python",
         "meta.function-call.generic.python",
         "entity.other.inherited-class.python",
-        "variable.parameter.function.language.python",
-        "variable.parameter.function-call.python"
+        "variable.parameter.function.language.python"
       ],
       "settings": {
         "foreground": "#58b2dc"
@@ -823,8 +822,8 @@
     {
       "scope": ["constant.other.caps.python"],
       "settings": {
-        "foreground": "#E6844F",
-        "fontStyle": "bold"
+        "foreground": "#E6844F"
+        // "fontStyle": "bold"
       }
     },
 

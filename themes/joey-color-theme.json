@@ -734,9 +734,7 @@
         "constant.character.format.placeholder.other.python",
         "storage.type.string.python",
         "meta.function.parameters.python",
-        "meta.function.python",
-        "keyword.control.flow.python",
-        "keyword.operator.logical.python"
+        "meta.function.python"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -779,6 +777,15 @@
       ],
       "settings": {
         "foreground": "#bcb28d"
+      }
+    },
+    {
+      "scope": [
+        "keyword.control.flow.python",
+        "keyword.operator.logical.python"
+      ],
+      "settings": {
+        "foreground": "#CA76DB"
       }
     },
     {

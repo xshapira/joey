@@ -835,6 +835,7 @@
     {
       "scope": ["variable.parameter.function-call.python"],
       "settings": {
+        "foreground": "#BCB28D",
         "fontStyle": "italic"
       }
     },

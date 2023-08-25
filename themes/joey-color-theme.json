@@ -510,13 +510,6 @@
       }
     },
     {
-      "scope": "keyword.control",
-      "settings": {
-        "foreground": "#58B2DC",
-        "fontStyle": ""
-      }
-    },
-    {
       "scope": "keyword.operator.assignment",
       "settings": {
         "foreground": "#db5594"
@@ -576,7 +569,7 @@
     {
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#58b2dc"
+        "foreground": "#CA76DB"
       }
     },
     {

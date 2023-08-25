@@ -666,20 +666,8 @@
         "foreground": "#E6844F"
       }
     },
-    {
-      "scope": ["support.type.primitive.ts"],
-      "settings": {
-        "foreground": "#e85470"
-      }
-    },
 
     // python
-    {
-      "scope": ["keyword.operator.assignment.python"],
-      "settings": {
-        "foreground": "#db5594"
-      }
-    },
     {
       "scope": [
         "meta.function-call.python",
@@ -779,12 +767,6 @@
       ],
       "settings": {
         "foreground": "#DDA52D"
-      }
-    },
-    {
-      "scope": ["support.type.python"],
-      "settings": {
-        "foreground": "#D279CF"
       }
     },
     {

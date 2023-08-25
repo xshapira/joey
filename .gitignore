@@ -2,3 +2,4 @@
 *.vsix
 .DS_Store
 sample
+node_modules

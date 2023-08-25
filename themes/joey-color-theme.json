@@ -822,6 +822,9 @@
     "builtinConstant": {
       "foreground": "#DDA52D"
     },
+    "builtinConstant.readonly.builtin": {
+      "foreground": "#DDA52D"
+    },
     "parameter": {
       "foreground": "#BCB28D"
     },

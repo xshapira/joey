@@ -658,7 +658,11 @@
       }
     },
     {
-      "scope": ["variable.language.this.ts", "meta.object-literal.key.ts"],
+      "scope": [
+        "variable.language.this.ts",
+        "meta.object-literal.key.ts",
+        "support.type.primitive.ts"
+      ],
       "settings": {
         "foreground": "#E6844F"
       }

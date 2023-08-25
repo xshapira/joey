@@ -623,8 +623,7 @@
         "entity.name.type.instance.js",
         "variable.language.this.js",
         "variable.language.self.js",
-        "support.type.object.console.js",
-        "variable.other.readwrite.js"
+        "support.type.object.console.js"
       ],
       "settings": {
         "foreground": "#E6844F"

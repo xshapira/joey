@@ -638,7 +638,8 @@
         "keyword.operator.accessor.js",
         "variable.other.object.js",
         "support.type.object.dom.js",
-        "variable.other.property.js"
+        "variable.other.property.js",
+        "variable.other.readwrite.js"
       ],
       "settings": {
         "foreground": "#bcb28d"

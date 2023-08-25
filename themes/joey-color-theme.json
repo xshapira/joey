@@ -761,11 +761,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.operator.unpacking.parameter.python",
-        "keyword.operator.unpacking.arguments.python",
-        "constant.language.python"
-      ],
+      "scope": ["constant.language.python"],
       "settings": {
         "foreground": "#DDA52D"
       }
@@ -787,6 +783,15 @@
       "settings": {
         "foreground": "#BCB28D",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.unpacking.parameter.python",
+        "keyword.operator.unpacking.arguments.python"
+      ],
+      "settings": {
+        "foreground": "#39b49d"
       }
     },
 

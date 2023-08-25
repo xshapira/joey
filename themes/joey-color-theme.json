@@ -590,7 +590,7 @@
     {
       "scope": "keyword.operator.new",
       "settings": {
-        "foreground": "#E03C8A",
+        "foreground": "#CA76DB",
         "fontStyle": "italic"
       }
     },

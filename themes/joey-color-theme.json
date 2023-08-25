@@ -810,6 +810,15 @@
     "variable.declaration.readonly": {
       "foreground": "#E6844F"
     },
+    "variable.readonly": {
+      "foreground": "#E6844F"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#E6844F"
+    },
+    "property.readonly": {
+      "foreground": "#BCB28D"
+    },
     "builtinConstant": {
       "foreground": "#DDA52D"
     },

@@ -552,12 +552,16 @@
         "support.class",
         "variable",
         "entity.name.type",
-        "entity.other.inherited-class",
-        "keyword.operator",
-        "keyword.operator.arithmetic"
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#E6844F"
+      }
+    },
+    {
+      "scope": ["keyword.operator", "keyword.operator.arithmetic"],
+      "settings": {
+        "foreground": "#e85470"
       }
     },
     {

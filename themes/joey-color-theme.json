@@ -822,16 +822,16 @@
       "foreground": "#BCB28D"
     },
     "variable.declaration.readonly": {
-      "foreground": "#ce8c6b"
+      "foreground": "#E6844F"
     },
     "variable.readonly": {
-      "foreground": "#ce8c6b"
+      "foreground": "#E6844F"
     },
     "variable.defaultLibrary": {
-      "foreground": "#ce8c6b"
+      "foreground": "#E6844F"
     },
     "property.readonly.defaultLibrary": {
-      "foreground": "#ce8c6b"
+      "foreground": "#E6844F"
     },
     "property.readonly": {
       "foreground": "#BCB28D"

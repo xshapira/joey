@@ -673,7 +673,6 @@
       "scope": [
         "meta.function-call.python",
         "meta.function-call.generic.python",
-        "entity.other.inherited-class.python",
         "variable.parameter.function.language.python"
       ],
       "settings": {
@@ -776,6 +775,13 @@
       "scope": ["constant.other.caps.python"],
       "settings": {
         "foreground": "#E6844F"
+      }
+    },
+    {
+      "scope": ["entity.other.inherited-class.python"],
+      "settings": {
+        "foreground": "#E6844F",
+        "fontStyle": "italic"
       }
     },
     {

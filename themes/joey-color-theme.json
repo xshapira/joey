@@ -779,10 +779,17 @@
       }
     },
     {
-      "scope": ["entity.other.inherited-class.python"],
+      "scope": ["meta.class.inheritance.python"],
       "settings": {
         "foreground": "#E6844F",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["meta.member.access.python"],
+      "settings": {
+        "foreground": "#E6844F",
+        "fontStyle": ""
       }
     },
     {

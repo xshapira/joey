@@ -573,7 +573,8 @@
     {
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#CA76DB"
+        "foreground": "#CA76DB",
+        "fontStyle": ""
       }
     },
     {

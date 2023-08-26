@@ -814,6 +814,34 @@
       }
     },
 
+    // django-html
+    {
+      "scope": ["entity.tag.tagbraces.django"],
+      "settings": {
+        "foreground": "#CA76DB",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": [
+        "constant.other.contrib.django",
+        "constant.other.tag.name.django"
+      ],
+      "settings": {
+        "foreground": "#E6844F",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "string.quoted.single.html",
+        "string.unquoted.tag-string.django"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+
     // dart
     {
       "scope": ["variable.language.dart", "keyword.other.import.dart"],

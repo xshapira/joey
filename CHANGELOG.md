@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.0
+
+* Add semantic highlighting
+* Improve highlighting for: Python, Javascript, and TypeScript
+
 ## 3.1.10
 
 * Downplay python magic variables

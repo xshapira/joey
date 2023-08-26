@@ -617,6 +617,14 @@
       }
     },
 
+    // json
+    {
+      "scope": ["constant.language.json"],
+      "settings": {
+        "foreground": "#58b2dc"
+      }
+    },
+
     // javascript
     {
       "scope": [

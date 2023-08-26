@@ -786,13 +786,6 @@
       }
     },
     {
-      "scope": ["meta.member.access.python"],
-      "settings": {
-        "foreground": "#E6844F",
-        "fontStyle": ""
-      }
-    },
-    {
       "scope": ["variable.parameter.function-call.python"],
       "settings": {
         "foreground": "#BCB28D",
@@ -849,10 +842,14 @@
       "foreground": "#BCB28D"
     },
     "enumMember": {
-      "foreground": "#39b49d"
+      "foreground": "#3CAB91"
     },
     "class": {
-      "foreground": "#E6844F"
+      "foreground": "#E6844F",
+      "fontStyle": ""
+    },
+    "enum": {
+      "fontStyle": ""
     },
     "selfParameter": {
       "foreground": "#E6844F"

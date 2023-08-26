@@ -2,6 +2,12 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.1
+
+* Fix incorrect italics styling within Python inheritance brackets
+* Improve syntax highlighting of Django templates in HTML
+* Change color of enum semantic tokens
+
 ## 3.2.0
 
 * Add semantic highlighting

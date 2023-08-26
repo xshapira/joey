@@ -591,8 +591,8 @@
     {
       "scope": "keyword.operator.new",
       "settings": {
-        "foreground": "#CA76DB",
-        "fontStyle": "italic"
+        "foreground": "#E03C8A",
+        "fontStyle": "bold"
       }
     },
     {

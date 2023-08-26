@@ -698,7 +698,8 @@
         "constant.character.format.placeholder.other.python",
         "storage.type.string.python",
         "meta.function.parameters.python",
-        "meta.function.python"
+        "meta.function.python",
+        "constant.other.caps.python"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -778,12 +779,6 @@
       "scope": ["keyword.operator.arithmetic.python"],
       "settings": {
         "foreground": "#e85470"
-      }
-    },
-    {
-      "scope": ["constant.other.caps.python"],
-      "settings": {
-        "foreground": "#E6844F"
       }
     },
     {

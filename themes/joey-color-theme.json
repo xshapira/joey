@@ -789,6 +789,15 @@
       }
     },
     {
+      "scope": [
+        "punctuation.definition.inheritance.begin.python",
+        "punctuation.definition.inheritance.end.python"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
       "scope": ["variable.parameter.function-call.python"],
       "settings": {
         "foreground": "#BCB28D",

@@ -862,6 +862,21 @@
       "settings": {
         "foreground": "#58b2dc"
       }
+    },
+
+    // rust
+    {
+      "scope": [
+        "keyword.operator.arrow.skinny.rust",
+        "keyword.operator.borrow.and.rust",
+        "keyword.operator.access.dot.rust",
+        "keyword.operator.namespace.rust",
+        "keyword.operator.math.rust",
+        "keyword.operator.key-value.rust"
+      ],
+      "settings": {
+        "foreground": "#bcb28d"
+      }
     }
   ]
 }

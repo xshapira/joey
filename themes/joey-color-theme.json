@@ -688,6 +688,30 @@
         "foreground": "#E6844F"
       }
     },
+    {
+      "scope": [
+        "keyword.operator.type.annotation.ts",
+        "variable.other.object.ts",
+        "variable.object.property.ts",
+        "variable.parameter.ts",
+        "punctuation.separator.key-value.ts"
+      ],
+      "settings": {
+        "foreground": "#bcb28d"
+      }
+    },
+    {
+      "scope": ["keyword.operator.ternary.ts"],
+      "settings": {
+        "foreground": "#e15b75"
+      }
+    },
+    {
+      "scope": ["meta.object-literal.key.ts"],
+      "settings": {
+        "foreground": "#66A866"
+      }
+    },
 
     // python
     {

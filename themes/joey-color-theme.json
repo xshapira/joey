@@ -883,6 +883,12 @@
       "settings": {
         "foreground": "#bcb28d"
       }
+    },
+    {
+      "scope": ["keyword.control.rust"],
+      "settings": {
+        "fontStyle": "italic bold"
+      }
     }
   ]
 }

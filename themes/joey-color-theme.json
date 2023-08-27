@@ -632,7 +632,8 @@
         "entity.name.type.instance.js",
         "variable.language.this.js",
         "variable.language.self.js",
-        "support.type.object.console.js"
+        "support.type.object.console.js",
+        "support.type.object.dom.js"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -646,12 +647,23 @@
         "support.variable.object.node",
         "keyword.operator.accessor.js",
         "variable.other.object.js",
-        "support.type.object.dom.js",
         "variable.other.property.js",
         "variable.other.readwrite.js"
       ],
       "settings": {
         "foreground": "#bcb28d"
+      }
+    },
+    {
+      "scope": ["keyword.control.conditional.js"],
+      "settings": {
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "scope": ["keyword.operator.ternary.js"],
+      "settings": {
+        "foreground": "#e15b75"
       }
     },
 

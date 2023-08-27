@@ -161,9 +161,9 @@
       }
     },
     {
-      "scope": ["constant.numeric"],
+      "scope": ["variable.other"],
       "settings": {
-        "foreground": "#986DB2"
+        "foreground": "#bcb28d"
       }
     },
     {
@@ -449,7 +449,7 @@
       "name": "this.self",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#58b2dc",
+        "foreground": "#E6844F",
         "fontStyle": "italic bold"
       }
     },

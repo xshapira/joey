@@ -156,7 +156,7 @@
     {
       "scope": "constant.language",
       "settings": {
-        "foreground": "#58b2dc",
+        "foreground": "#DDA52D",
         "fontStyle": "bold"
       }
     },

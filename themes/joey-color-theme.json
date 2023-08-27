@@ -854,6 +854,9 @@
     "variable": {
       "foreground": "#BCB28D"
     },
+    "variable.decorator": {
+      "foreground": "#58B2DC"
+    },
     "variable.declaration.readonly": {
       "foreground": "#E6844F"
     },

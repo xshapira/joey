@@ -574,6 +574,12 @@
       "scope": ["keyword.control"],
       "settings": {
         "foreground": "#CA76DB",
+        "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["keyword.control.flow"],
+      "settings": {
         "fontStyle": "italic bold"
       }
     },

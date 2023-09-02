@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.3
+
+* Add updated code snapshots
+
 ## 3.2.2
 
 * Simplify theme by removing semantic highlighting

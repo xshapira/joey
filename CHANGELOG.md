@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.4
+
+* Change selection background color to improve readability
+
 ## 3.2.3
 
 * Add updated code snapshots

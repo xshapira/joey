@@ -623,6 +623,20 @@
       }
     },
 
+    // toml
+    {
+      "scope": ["support.type.property-name.table.toml"],
+      "settings": {
+        "foreground": "#CA76DB"
+      }
+    },
+    {
+      "scope": ["constant.language.boolean.toml"],
+      "settings": {
+        "foreground": "#58B2DC"
+      }
+    },
+
     // json
     {
       "scope": ["constant.language.json"],

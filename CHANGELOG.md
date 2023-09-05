@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.6
+
+* Remove italic styling from dockerfile keyword, keep bold
+* Improve highlighting for .env files
+
 ## 3.2.5
 
 * Improve TOML language highlighting

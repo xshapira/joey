@@ -637,6 +637,14 @@
       }
     },
 
+    // docker
+    {
+      "scope": ["keyword.other.special-method.dockerfile"],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+
     // json
     {
       "scope": ["constant.language.json"],

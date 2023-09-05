@@ -645,6 +645,20 @@
       }
     },
 
+    // .env
+    {
+      "scope": ["variable.other.env"],
+      "settings": {
+        "foreground": "#E6844F"
+      }
+    },
+    {
+      "scope": ["constant.language.env"],
+      "settings": {
+        "foreground": "#58b2dc"
+      }
+    },
+
     // json
     {
       "scope": ["constant.language.json"],

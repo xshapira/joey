@@ -924,6 +924,12 @@
       "settings": {
         "fontStyle": "italic bold"
       }
+    },
+    {
+      "scope": ["keyword.operator.borrow.and.rust"],
+      "settings": {
+        "foreground": "#CA76DB"
+      }
     }
   ]
 }

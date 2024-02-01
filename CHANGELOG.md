@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.8
+
+* rust: update '&' borrow operator color
+
 ## 3.2.7
 
 * Update color for python format placeholder constant character

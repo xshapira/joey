@@ -2,7 +2,7 @@
 
 Source from: <https://github.com/xshapira/joey>
 
-## 3.2.9
+## 3.2.10
 
 * Update color for storage types in JavaScript and TypeScript
 

@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.9
+
+* Update color for storage types in JavaScript and TypeScript
+
 ## 3.2.8
 
 * rust: update '&' borrow operator color

@@ -703,7 +703,7 @@
       }
     },
     {
-      "scope": ["keyword.operator.ternary.js"],
+      "scope": ["keyword.operator.ternary.js", "storage.type.js"],
       "settings": {
         "foreground": "#e15b75"
       }
@@ -743,7 +743,7 @@
       }
     },
     {
-      "scope": ["keyword.operator.ternary.ts"],
+      "scope": ["keyword.operator.ternary.ts", "storage.type.ts"],
       "settings": {
         "foreground": "#e15b75"
       }

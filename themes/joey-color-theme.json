@@ -45,7 +45,7 @@
     "editor.lineHighlightBackground": "#282b31",
     "editor.lineHighlightBorder": "#00000000",
     "editorWarning.foreground": "#e6844f",
-    "editorError.foreground": "#e15b75",
+    "editorError.foreground": "#E03C8A",
     "editor.findMatchHighlightBackground": "#2c5a65",
     "editor.findRangeHighlightBackground": "#2c5a65",
     "editor.findMatchBorder": "#bcb28d66",

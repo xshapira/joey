@@ -937,6 +937,12 @@
       "settings": {
         "foreground": "#CA76DB"
       }
+    },
+    {
+      "scope": ["constant.other.caps.rust"],
+      "settings": {
+        "foreground": "#e15b75"
+      }
     }
   ]
 }

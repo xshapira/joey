@@ -2,6 +2,13 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.11
+
+* Introduce new color highlighting for Rust constants
+* Improve Rust syntax highlighting consistency
+* Update inactive tab color to improve contrast
+* Change error highlights color in the File Explorer
+
 ## 3.2.10
 
 * Update color for storage types in JavaScript and TypeScript

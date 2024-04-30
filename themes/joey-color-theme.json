@@ -926,7 +926,14 @@
       }
     },
     {
-      "scope": ["keyword.operator.borrow.and.rust"],
+      "scope": [
+        "keyword.operator.borrow.and.rust",
+        "storage.modifier.mut.rust",
+        "keyword.other.fn.rust",
+        "storage.type.rust",
+        "keyword.other.rust",
+        "keyword.other.crate.rust"
+      ],
       "settings": {
         "foreground": "#CA76DB"
       }

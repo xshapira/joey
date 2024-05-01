@@ -905,6 +905,14 @@
       }
     },
 
+    // ruby
+    {
+      "scope": ["punctuation.definition.variable.ruby"],
+      "settings": {
+        "foreground": "#e15b75"
+      }
+    },
+
     // rust
     {
       "scope": [

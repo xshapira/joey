@@ -2,6 +2,12 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.12
+
+* Update color of ignored resources in git decoration
+* Add color highlighting for Ruby variable punctuation
+* Tweak tagline wording for smoother flow
+
 ## 3.2.11
 
 * Introduce new color highlighting for Rust constants

@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.13
+
+* Update `package.json` description to match latest release
+
 ## 3.2.12
 
 * Update color of ignored resources in git decoration

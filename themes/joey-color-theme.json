@@ -674,8 +674,8 @@
         "entity.name.type.instance.js",
         "variable.language.this.js",
         "variable.language.self.js",
-        "support.type.object.console.js",
-        "support.type.object.dom.js"
+        "support.type.object.dom.js",
+        "variable.other.property.js"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -688,8 +688,6 @@
         "support.variable.object.process",
         "support.variable.object.node",
         "keyword.operator.accessor.js",
-        "variable.other.object.js",
-        "variable.other.property.js",
         "variable.other.readwrite.js"
       ],
       "settings": {
@@ -708,14 +706,16 @@
         "foreground": "#e15b75"
       }
     },
+    {
+      "scope": ["variable.other.object.js", "support.type.object.console.js"],
+      "settings": {
+        "foreground": "#EAB464"
+      }
+    },
 
     // typescript
     {
-      "scope": [
-        "variable.other.object.ts",
-        "variable.object.property.ts",
-        "variable.parameter.ts"
-      ],
+      "scope": ["variable.object.property.ts", "variable.parameter.ts"],
       "settings": {
         "foreground": "#58b2dc"
       }
@@ -724,7 +724,7 @@
       "scope": [
         "variable.language.this.ts",
         "meta.object-literal.key.ts",
-        "support.type.primitive.ts"
+        "variable.other.property.ts"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -733,7 +733,6 @@
     {
       "scope": [
         "keyword.operator.type.annotation.ts",
-        "variable.other.object.ts",
         "variable.object.property.ts",
         "variable.parameter.ts",
         "punctuation.separator.key-value.ts"
@@ -743,7 +742,17 @@
       }
     },
     {
-      "scope": ["keyword.operator.ternary.ts", "storage.type.ts"],
+      "scope": ["variable.other.object.ts"],
+      "settings": {
+        "foreground": "#EAB464"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator.ternary.ts",
+        "storage.type.ts",
+        "support.type.primitive.ts"
+      ],
       "settings": {
         "foreground": "#e15b75"
       }

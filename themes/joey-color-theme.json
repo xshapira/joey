@@ -716,7 +716,10 @@
       }
     },
     {
-      "scope": ["keyword.operator.assignment.js"],
+      "scope": [
+        "keyword.operator.assignment.js",
+        "keyword.operator.assignment.augmented.js"
+      ],
       "settings": {
         "foreground": "#05BBB8"
       }
@@ -730,7 +733,11 @@
       }
     },
     {
-      "scope": ["support.type.primitive.ts", "keyword.operator.assignment.ts"],
+      "scope": [
+        "support.type.primitive.ts",
+        "keyword.operator.assignment.ts",
+        "keyword.operator.assignment.compound.ts"
+      ],
       "settings": {
         "foreground": "#05BBB8"
       }

@@ -671,27 +671,12 @@
     {
       "scope": [
         "entity.name.class.js",
-        "entity.name.type.instance.js",
-        "variable.language.this.js",
-        "variable.language.self.js",
         "support.type.object.dom.js",
-        "variable.other.property.js"
+        "variable.other.readwrite.js",
+        "variable.other.constant.js"
       ],
       "settings": {
         "foreground": "#E6844F"
-      }
-    },
-    {
-      "scope": [
-        "meta.object-literal.key",
-        "support.variable.property",
-        "support.variable.object.process",
-        "support.variable.object.node",
-        "keyword.operator.accessor.js",
-        "variable.other.readwrite.js"
-      ],
-      "settings": {
-        "foreground": "#bcb28d"
       }
     },
     {
@@ -701,15 +686,39 @@
       }
     },
     {
-      "scope": ["keyword.operator.ternary.js", "storage.type.js"],
+      "scope": ["variable.other.property.js"],
       "settings": {
         "foreground": "#e15b75"
       }
     },
     {
-      "scope": ["variable.other.object.js", "support.type.object.console.js"],
+      "scope": [
+        "support.class.builtin.js",
+        "entity.name.type.instance.js",
+        "entity.name.class.js",
+        "support.type.object.dom.js",
+        "support.type.object.console.js",
+        "support.variable.property",
+        "support.variable.object.process",
+        "support.variable.object.node",
+        "variable.other.object.js",
+        "variable.language.this.js",
+        "variable.language.self.js"
+      ],
       "settings": {
         "foreground": "#EAB464"
+      }
+    },
+    {
+      "scope": ["keyword.operator.ternary.js"],
+      "settings": {
+        "foreground": "#548458"
+      }
+    },
+    {
+      "scope": ["keyword.operator.assignment.js"],
+      "settings": {
+        "foreground": "#05BBB8"
       }
     },
 

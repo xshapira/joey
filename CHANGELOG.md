@@ -2,6 +2,10 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.15
+
+- Refine JavaScript and TypeScript syntax highlighting
+
 ## 3.2.14
 
 - Improve visual distinction of objects, primitives, and properties in JavaScript/TypeScript.

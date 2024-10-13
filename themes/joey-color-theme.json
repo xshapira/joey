@@ -724,16 +724,27 @@
 
     // typescript
     {
-      "scope": ["variable.object.property.ts", "variable.parameter.ts"],
+      "scope": ["variable.parameter.ts"],
       "settings": {
         "foreground": "#58b2dc"
       }
     },
     {
+      "scope": ["support.type.primitive.ts", "keyword.operator.assignment.ts"],
+      "settings": {
+        "foreground": "#05BBB8"
+      }
+    },
+    {
       "scope": [
-        "variable.language.this.ts",
         "meta.object-literal.key.ts",
-        "variable.other.property.ts"
+        "variable.parameter.ts",
+        "variable.other.constant.ts",
+        "variable.other.object.property.ts",
+        "variable.other.readwrite.ts",
+        "variable.other.readwrite.tsx",
+        "variable.object.property.ts",
+        "variable.other.constant.property.ts"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -742,8 +753,6 @@
     {
       "scope": [
         "keyword.operator.type.annotation.ts",
-        "variable.object.property.ts",
-        "variable.parameter.ts",
         "punctuation.separator.key-value.ts"
       ],
       "settings": {
@@ -751,25 +760,46 @@
       }
     },
     {
-      "scope": ["variable.other.object.ts"],
+      "scope": [
+        "variable.language.this.ts",
+        "variable.language.self.ts",
+        "entity.name.type.interface.ts",
+        "entity.name.type.ts",
+        "entity.name.type.class.ts",
+        "variable.other.object.ts",
+        "variable.other.object.tsx",
+        "support.class.promise.ts"
+      ],
       "settings": {
         "foreground": "#EAB464"
       }
     },
     {
       "scope": [
-        "keyword.operator.ternary.ts",
-        "storage.type.ts",
-        "support.type.primitive.ts"
+        "support.variable.property.importmeta.ts",
+        "variable.other.property.tsx",
+        "variable.other.object.property.ts",
+        "variable.other.object.property.tsx",
+        "variable.other.property.ts"
       ],
       "settings": {
         "foreground": "#e15b75"
       }
     },
     {
-      "scope": ["meta.object-literal.key.ts"],
+      "scope": [
+        "meta.object-literal.key.ts",
+        "keyword.operator.ternary.ts",
+        "meta.object-literal.key.tsx"
+      ],
       "settings": {
         "foreground": "#66A866"
+      }
+    },
+    {
+      "scope": ["storage.modifier.async.ts", "storage.modifier.ts"],
+      "settings": {
+        "foreground": "#E03C8A"
       }
     },
 

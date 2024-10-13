@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.2.16
+
+- Update color for augmented and compound assignment operators in JS and TS
+- Update theme screenshots
+
 ## 3.2.15
 
 - Refine JavaScript and TypeScript syntax highlighting

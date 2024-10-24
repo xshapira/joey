@@ -23,7 +23,7 @@
   "homepage": "https://github.com/xshapira/joey",
   "icon": "icon.png",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"

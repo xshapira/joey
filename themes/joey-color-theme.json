@@ -598,7 +598,7 @@
     {
       "scope": "keyword.operator.new",
       "settings": {
-        "foreground": "#E03C8A",
+        "foreground": "#CB77DB",
         "fontStyle": "bold"
       }
     },
@@ -723,7 +723,13 @@
       }
     },
     {
-      "scope": ["punctuation.accessor", "keyword.operator.accessor"],
+      "scope": [
+        "punctuation.accessor",
+        "keyword.operator.accessor",
+        "storage.type.js",
+        "storage.type.function.js",
+        "storage.type.class.js"
+      ],
       "settings": {
         "foreground": "#CA76DB"
       }
@@ -736,7 +742,13 @@
       }
     },
     {
-      "scope": ["keyword.operator.expression.keyof.ts"],
+      "scope": [
+        "keyword.operator.expression.keyof.ts",
+        "storage.type.ts",
+        "storage.type.function.ts",
+        "storage.type.interface.ts",
+        "storage.type.class.ts"
+      ],
       "settings": {
         "foreground": "#CA76DB"
       }

@@ -1,5 +1,6 @@
 {
   "name": "theme-joey",
+  "semanticHighlighting": true,
   "colors": {
     // base
     "focusBorder": "#1f2023",
@@ -1012,5 +1013,15 @@
         "foreground": "#e15b75"
       }
     }
-  ]
+  ],
+  "semanticTokenColors": {
+    "parameter": "#BCB38E",
+    "*.readonly": "#E68550",
+    "namespace": "#E68550",
+    "interface": "#E68550",
+    "type": "#E68550",
+    "function": "#58B2DC",
+    "property": "#E15C75",
+    "variable.defaultLibrary": "#E68550"
+  }
 }

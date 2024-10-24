@@ -672,8 +672,17 @@
       "scope": [
         "entity.name.class.js",
         "support.type.object.dom.js",
-        "variable.other.readwrite.js",
-        "variable.other.constant.js"
+        "variable.other.constant.js",
+        "support.class.builtin.js",
+        "entity.name.type.instance.js",
+        "support.type.object.dom.js",
+        "support.type.object.console.js",
+        "support.variable.property",
+        "support.variable.object.process",
+        "support.variable.object.node",
+        "variable.other.object.js",
+        "variable.language.this.js",
+        "variable.language.self.js"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -692,27 +701,15 @@
       }
     },
     {
-      "scope": [
-        "support.class.builtin.js",
-        "entity.name.type.instance.js",
-        "entity.name.class.js",
-        "support.type.object.dom.js",
-        "support.type.object.console.js",
-        "support.variable.property",
-        "support.variable.object.process",
-        "support.variable.object.node",
-        "variable.other.object.js",
-        "variable.language.this.js",
-        "variable.language.self.js"
-      ],
-      "settings": {
-        "foreground": "#EAB464"
-      }
-    },
-    {
       "scope": ["keyword.operator.ternary.js"],
       "settings": {
         "foreground": "#548458"
+      }
+    },
+    {
+      "scope": ["variable.other.readwrite.js"],
+      "settings": {
+        "foreground": "#BCB38E"
       }
     },
     {
@@ -724,7 +721,12 @@
         "foreground": "#05BBB8"
       }
     },
-
+    {
+      "scope": ["punctuation.accessor", "keyword.operator.accessor"],
+      "settings": {
+        "foreground": "#CA76DB"
+      }
+    },
     // typescript
     {
       "scope": ["variable.parameter.ts"],
@@ -733,8 +735,13 @@
       }
     },
     {
+      "scope": ["keyword.operator.expression.keyof.ts"],
+      "settings": {
+        "foreground": "#CA76DB"
+      }
+    },
+    {
       "scope": [
-        "support.type.primitive.ts",
         "keyword.operator.assignment.ts",
         "keyword.operator.assignment.compound.ts"
       ],
@@ -748,10 +755,19 @@
         "variable.parameter.ts",
         "variable.other.constant.ts",
         "variable.other.object.property.ts",
-        "variable.other.readwrite.ts",
-        "variable.other.readwrite.tsx",
         "variable.object.property.ts",
-        "variable.other.constant.property.ts"
+        "variable.language.this.ts",
+        "variable.language.self.ts",
+        "entity.name.type.interface.ts",
+        "entity.name.type.ts",
+        "entity.name.type.class.ts",
+        "variable.other.object.ts",
+        "variable.other.object.tsx",
+        "support.class.promise.ts",
+        "support.variable.ts",
+        "support.type.builtin.ts",
+        "support.type.primitive.ts",
+        "support.type.builtin.primitive"
       ],
       "settings": {
         "foreground": "#E6844F"
@@ -760,25 +776,12 @@
     {
       "scope": [
         "keyword.operator.type.annotation.ts",
-        "punctuation.separator.key-value.ts"
+        "punctuation.separator.key-value.ts",
+        "variable.other.readwrite.ts",
+        "variable.other.readwrite.tsx"
       ],
       "settings": {
         "foreground": "#bcb28d"
-      }
-    },
-    {
-      "scope": [
-        "variable.language.this.ts",
-        "variable.language.self.ts",
-        "entity.name.type.interface.ts",
-        "entity.name.type.ts",
-        "entity.name.type.class.ts",
-        "variable.other.object.ts",
-        "variable.other.object.tsx",
-        "support.class.promise.ts"
-      ],
-      "settings": {
-        "foreground": "#EAB464"
       }
     },
     {
@@ -787,7 +790,8 @@
         "variable.other.property.tsx",
         "variable.other.object.property.ts",
         "variable.other.object.property.tsx",
-        "variable.other.property.ts"
+        "variable.other.property.ts",
+        "variable.other.constant.property.ts"
       ],
       "settings": {
         "foreground": "#e15b75"

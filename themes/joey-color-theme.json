@@ -1003,8 +1003,7 @@
         "storage.type.rust",
         "keyword.other.rust",
         "keyword.other.crate.rust",
-        "keyword.operator.access.dot.rust",
-        "keyword.operator.comparison.rust"
+        "keyword.operator.access.dot.rust"
       ],
       "settings": {
         "foreground": "#CA76DB"

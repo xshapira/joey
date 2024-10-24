@@ -859,7 +859,6 @@
       "scope": [
         "punctuation.separator.arguments.python",
         "punctuation.separator.element.python",
-        "punctuation.separator.period.python",
         "keyword.operator.python",
         "meta.attribute.python",
         "meta.function-call.arguments.python",
@@ -881,7 +880,9 @@
     {
       "scope": [
         "keyword.control.flow.python",
-        "keyword.operator.logical.python"
+        "keyword.operator.logical.python",
+        "punctuation.separator.period.python",
+        "keyword.operator.comparison.python"
       ],
       "settings": {
         "foreground": "#CA76DB"

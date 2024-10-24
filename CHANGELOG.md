@@ -2,6 +2,13 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.0
+
+- Add semantic token highlighting support
+- Tweak JavaScript and TypeScript syntax colors
+- Improve Rust syntax token coloring
+- Update colors for period separator and comparison operator in Python
+
 ## 3.2.16
 
 - Update color for augmented and compound assignment operators in JS and TS

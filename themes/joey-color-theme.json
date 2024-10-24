@@ -977,11 +977,7 @@
     // rust
     {
       "scope": [
-        "keyword.operator.arrow.skinny.rust",
-        "keyword.operator.borrow.and.rust",
-        "keyword.operator.access.dot.rust",
         "keyword.operator.namespace.rust",
-        "keyword.operator.math.rust",
         "keyword.operator.key-value.rust"
       ],
       "settings": {
@@ -995,22 +991,35 @@
       }
     },
     {
+      "scope": ["constant.other.caps.rust", "entity.name.namespace.rust"],
+      "settings": {
+        "foreground": "#E6844F"
+      }
+    },
+    {
       "scope": [
-        "keyword.operator.borrow.and.rust",
         "storage.modifier.mut.rust",
         "keyword.other.fn.rust",
         "storage.type.rust",
         "keyword.other.rust",
-        "keyword.other.crate.rust"
+        "keyword.other.crate.rust",
+        "keyword.operator.access.dot.rust",
+        "keyword.operator.comparison.rust"
       ],
       "settings": {
         "foreground": "#CA76DB"
       }
     },
     {
-      "scope": ["constant.other.caps.rust"],
+      "scope": ["keyword.operator.borrow.and.rust"],
       "settings": {
-        "foreground": "#e15b75"
+        "foreground": "#05BBB8"
+      }
+    },
+    {
+      "scope": ["keyword.operator.math.rust"],
+      "settings": {
+        "foreground": "#E15C75"
       }
     }
   ],

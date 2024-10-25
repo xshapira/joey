@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.1
+
+- Fix list active selection background color
+- Update syntax highlighting for invalid Python annotations
+
 ## 3.3.0
 
 - Add semantic token highlighting support

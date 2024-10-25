@@ -99,7 +99,7 @@
     // list
     "list.hoverBackground": "#243d46",
     "list.focusBackground": "#2A5A66",
-    "list.activeSelectionBackground": "#282b31" /*"#243d46"*/,
+    "list.activeSelectionBackground": "#243d46",
     "list.activeSelectionForeground": "#bcb28d",
     "list.focusForeground": "#bcb28d",
     "list.inactiveSelectionBackground": "#282b31",

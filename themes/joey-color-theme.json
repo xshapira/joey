@@ -888,7 +888,8 @@
         "punctuation.section.function.begin.python",
         "support.variable.magic.python",
         "variable.parameter.function.language.python",
-        "variable.parameter.function-call.python"
+        "variable.parameter.function-call.python",
+        "invalid.illegal.annotation.python"
       ],
       "settings": {
         "foreground": "#bcb28d"

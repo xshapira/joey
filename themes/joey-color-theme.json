@@ -899,8 +899,7 @@
       "scope": [
         "keyword.control.flow.python",
         "keyword.operator.logical.python",
-        "punctuation.separator.period.python",
-        "keyword.operator.comparison.python"
+        "punctuation.separator.period.python"
       ],
       "settings": {
         "foreground": "#CA76DB"

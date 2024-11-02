@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.2
+
+- Revert python comparison operator to default styling
+- Adjust terminal magenta color for better contrast
+
 ## 3.3.1
 
 - Fix list active selection background color

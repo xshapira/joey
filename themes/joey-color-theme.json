@@ -48,8 +48,10 @@
     "editor.findMatchHighlightBackground": "#2c5a65",
     "editor.findRangeHighlightBackground": "#2c5a65",
     "editor.findMatchBorder": "#bcb28d66",
-    "editorInlayHint.foreground": "#7a867e",
-    "editorInlayHint.background": "#282B31",
+    "editorInlayHint.foreground": "#717C74",
+    "editorInlayHint.typeForeground": "#717C74",
+    "editorInlayHint.parameterForeground": "#717C74",
+    "editorInlayHint.background": "#ffffff00",
     "editor.linkedEditingBackground": "#E6855020",
     //sideBar
     "sideBar.background": "#1f2023",

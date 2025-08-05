@@ -2,6 +2,14 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.3
+
+- Add transparent hover highlight background
+- Update Python embedded blocks and markdown fenced code to use consistent color
+- Update assignment operator colors for JSX and TSX (including augmented and compound)
+- Add inlay hints styling with muted green foreground and transparent background
+- Add linked editing background highlight
+
 ## 3.3.2
 
 - Revert python comparison operator to default styling

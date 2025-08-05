@@ -53,6 +53,7 @@
     "editorInlayHint.parameterForeground": "#717C74",
     "editorInlayHint.background": "#ffffff00",
     "editor.linkedEditingBackground": "#E6855020",
+    "editor.hoverHighlightBackground": "#ffffff00",
     //sideBar
     "sideBar.background": "#1f2023",
     "sideBar.border": "#1f2023",

@@ -747,7 +747,9 @@
     {
       "scope": [
         "keyword.operator.assignment.js",
-        "keyword.operator.assignment.augmented.js"
+        "keyword.operator.assignment.augmented.js",
+        "keyword.operator.assignment.jsx",
+        "keyword.operator.assignment.augmented.jsx",
       ],
       "settings": {
         "foreground": "#05BBB8"
@@ -789,7 +791,9 @@
     {
       "scope": [
         "keyword.operator.assignment.ts",
-        "keyword.operator.assignment.compound.ts"
+        "keyword.operator.assignment.compound.ts",
+        "keyword.operator.assignment.tsx",
+        "keyword.operator.assignment.compound.tsx",
       ],
       "settings": {
         "foreground": "#05BBB8"

@@ -50,6 +50,7 @@
     "editor.findMatchBorder": "#bcb28d66",
     "editorInlayHint.foreground": "#7a867e",
     "editorInlayHint.background": "#282B31",
+    "editor.linkedEditingBackground": "#E6855020",
     //sideBar
     "sideBar.background": "#1f2023",
     "sideBar.border": "#1f2023",

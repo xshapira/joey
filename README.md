@@ -61,4 +61,4 @@ The font in preview is [MonoLisa](https://www.monolisa.dev/).
 
 ## Other
 
-This theme is a next-level version of [shaodahong](https://github.com/shaodahong/)'s fantastic [bear theme](https://github.com/shaodahong/theme-bear), now improved and updated to offer even more to your productivity.
+This theme is a next-level version of [shaodahong](https://github.com/shaodahong/)'s fantastic [bear theme](https://github.com/shaodahong/theme-bear), now improved and updated to offer even more to your focus.

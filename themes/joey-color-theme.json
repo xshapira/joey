@@ -820,7 +820,8 @@
         "support.variable.ts",
         "support.type.builtin.ts",
         "support.type.primitive.ts",
-        "support.type.builtin.primitive"
+        "support.type.primitive.tsx",
+        "support.type.builtin.primitive",
       ],
       "settings": {
         "foreground": "#E6844F"

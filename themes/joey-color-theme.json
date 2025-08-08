@@ -740,7 +740,9 @@
         "keyword.operator.comparison.js",
         "keyword.operator.comparison.jsx",
         "keyword.operator.arithmetic.js",
-        "keyword.operator.arithmetic.jsx"
+        "keyword.operator.arithmetic.jsx",
+        "keyword.operator.logical.js",
+        "keyword.operator.logical.jsx",
       ],
       "settings": {
         "foreground": "#05BBB8"
@@ -792,7 +794,9 @@
         "keyword.operator.comparison.ts",
         "keyword.operator.comparison.tsx",
         "keyword.operator.arithmetic.ts",
-        "keyword.operator.arithmetic.tsx"
+        "keyword.operator.arithmetic.tsx",
+        "keyword.operator.logical.ts",
+        "keyword.operator.logical.tsx",
       ],
       "settings": {
         "foreground": "#05BBB8"

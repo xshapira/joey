@@ -509,12 +509,6 @@
       }
     },
     {
-      "scope": "keyword.operator.assignment",
-      "settings": {
-        "foreground": "#db5594"
-      }
-    },
-    {
       "name": "Variable and parameter name",
       "scope": [
         "meta.definition.variable.name",
@@ -563,17 +557,18 @@
     {
       "scope": [
         "keyword.operator",
-        "keyword.operator.arithmetic"
+        "keyword.operator.arithmetic",
+        "keyword.operator.assignment",
+        "keyword.operator.comparison"
       ],
       "settings": {
-        "foreground": "#e85470"
+        "foreground": "#db5594"
       }
     },
     {
       "scope": [
         "string",
         "string.regexp",
-        "keyword.operator"
       ],
       "settings": {
         "foreground": "#66A866"
@@ -730,14 +725,6 @@
     },
     {
       "scope": [
-        "keyword.operator.ternary.js"
-      ],
-      "settings": {
-        "foreground": "#548458"
-      }
-    },
-    {
-      "scope": [
         "variable.other.readwrite.js"
       ],
       "settings": {
@@ -750,6 +737,10 @@
         "keyword.operator.assignment.augmented.js",
         "keyword.operator.assignment.jsx",
         "keyword.operator.assignment.augmented.jsx",
+        "keyword.operator.comparison.js",
+        "keyword.operator.comparison.jsx",
+        "keyword.operator.arithmetic.js",
+        "keyword.operator.arithmetic.jsx"
       ],
       "settings": {
         "foreground": "#05BBB8"
@@ -761,7 +752,9 @@
         "keyword.operator.accessor",
         "storage.type.js",
         "storage.type.function.js",
-        "storage.type.class.js"
+        "storage.type.class.js",
+        "keyword.operator.ternary.js",
+        "keyword.operator.ternary.jsx"
       ],
       "settings": {
         "foreground": "#CA76DB"
@@ -782,7 +775,9 @@
         "storage.type.ts",
         "storage.type.function.ts",
         "storage.type.interface.ts",
-        "storage.type.class.ts"
+        "storage.type.class.ts",
+        "keyword.operator.ternary.ts",
+        "keyword.operator.ternary.tsx",
       ],
       "settings": {
         "foreground": "#CA76DB"
@@ -794,6 +789,10 @@
         "keyword.operator.assignment.compound.ts",
         "keyword.operator.assignment.tsx",
         "keyword.operator.assignment.compound.tsx",
+        "keyword.operator.comparison.ts",
+        "keyword.operator.comparison.tsx",
+        "keyword.operator.arithmetic.ts",
+        "keyword.operator.arithmetic.tsx"
       ],
       "settings": {
         "foreground": "#05BBB8"
@@ -850,7 +849,6 @@
     {
       "scope": [
         "meta.object-literal.key.ts",
-        "keyword.operator.ternary.ts",
         "meta.object-literal.key.tsx"
       ],
       "settings": {
@@ -971,14 +969,6 @@
       ],
       "settings": {
         "foreground": "#DDA52D"
-      }
-    },
-    {
-      "scope": [
-        "keyword.operator.arithmetic.python"
-      ],
-      "settings": {
-        "foreground": "#e85470"
       }
     },
     {

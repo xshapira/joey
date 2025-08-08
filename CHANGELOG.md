@@ -2,6 +2,13 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.4
+
+- Consolidate operator colors across languages
+- Move language-specific operator rules to their respective sections
+- Remove duplicate and conflicting operator color definitions
+- Unify ternary, comparison, and arithmetic operator styling
+
 ## 3.3.3
 
 - Add transparent hover highlight background

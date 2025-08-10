@@ -2,6 +2,13 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.5
+
+- Update logical operator syntax highlighting for js, jsx, ts, and tsx
+- Update syntax highlighting for TSX primitive types
+- Adjust color for JS/TS key-value separator
+
+
 ## 3.3.4
 
 - Consolidate operator colors across languages

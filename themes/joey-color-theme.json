@@ -825,7 +825,11 @@
 			}
 		},
 		{
-			"scope": ["storage.modifier.async.ts", "storage.modifier.ts"],
+			"scope": [
+				"storage.modifier.async.ts",
+				"storage.modifier.ts",
+				"storage.modifier.async.tsx"
+			],
 			"settings": {
 				"foreground": "#E03C8A"
 			}

@@ -786,6 +786,7 @@
 				"support.class.promise.ts",
 				"support.variable.ts",
 				"support.type.builtin.ts",
+				"support.type.builtin.tsx",
 				"support.type.primitive.ts",
 				"support.type.primitive.tsx",
 				"support.type.builtin.primitive"

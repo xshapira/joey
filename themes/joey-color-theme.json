@@ -731,12 +731,6 @@
 		},
 		// typescript
 		{
-			"scope": ["variable.parameter.ts"],
-			"settings": {
-				"foreground": "#58b2dc"
-			}
-		},
-		{
 			"scope": [
 				"keyword.operator.expression.keyof.ts",
 				"storage.type.ts",

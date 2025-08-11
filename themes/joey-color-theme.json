@@ -718,7 +718,6 @@
 		},
 		{
 			"scope": [
-				"punctuation.accessor",
 				"keyword.operator.accessor",
 				"storage.type.js",
 				"storage.type.function.js",
@@ -797,6 +796,7 @@
 		},
 		{
 			"scope": [
+				"punctuation.accessor",
 				"keyword.operator.type.annotation.ts",
 				"keyword.operator.type.annotation.tsx",
 				"variable.other.readwrite.ts",

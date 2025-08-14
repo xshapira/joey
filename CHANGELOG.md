@@ -2,6 +2,15 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.6
+
+- Make async modifier syntax consistent in TSX
+- Update syntax highlighting for type annotation operators in TSX
+- Modify punctuation accessor styling
+- Update highlighting for TSX built-in types
+- Change lua operator color
+
+
 ## 3.3.5
 
 - Update logical operator syntax highlighting for js, jsx, ts, and tsx

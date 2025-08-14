@@ -1026,6 +1026,12 @@
 			"settings": {
 				"foreground": "#E15C75"
 			}
+		},
+		{
+			"scope": ["keyword.operator.lua"],
+			"settings": {
+				"foreground": "#05BBB8"
+			}
 		}
 	],
 	"semanticTokenColors": {

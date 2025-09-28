@@ -713,15 +713,12 @@
 				"punctuation.separator.key-value.jsx"
 			],
 			"settings": {
-				"foreground": "#05BBB8"
+				"foreground": "#db5594"
 			}
 		},
 		{
 			"scope": [
 				"keyword.operator.accessor",
-				"storage.type.js",
-				"storage.type.function.js",
-				"storage.type.class.js",
 				"keyword.operator.ternary.js",
 				"keyword.operator.ternary.jsx"
 			],
@@ -729,16 +726,25 @@
 				"foreground": "#CA76DB"
 			}
 		},
+		{
+			"scope": [
+				"storage.type.js",
+				"storage.type.function.js",
+				"storage.type.class.js"
+			],
+			"settings": {
+				"foreground": "#E03C8A"
+			}
+		},
 		// typescript
 		{
 			"scope": [
 				"keyword.operator.expression.keyof.ts",
-				"storage.type.ts",
-				"storage.type.function.ts",
 				"storage.type.interface.ts",
-				"storage.type.class.ts",
 				"keyword.operator.ternary.ts",
-				"keyword.operator.ternary.tsx"
+				"keyword.operator.ternary.tsx",
+				"storage.modifier.async.tsx",
+				"storage.modifier.async.ts"
 			],
 			"settings": {
 				"foreground": "#CA76DB"
@@ -760,7 +766,7 @@
 				"punctuation.separator.key-value.tsx"
 			],
 			"settings": {
-				"foreground": "#05BBB8"
+				"foreground": "#db5594"
 			}
 		},
 		{
@@ -822,9 +828,10 @@
 		},
 		{
 			"scope": [
-				"storage.modifier.async.ts",
+				"storage.type.ts",
 				"storage.modifier.ts",
-				"storage.modifier.async.tsx"
+				"storage.type.function.ts",
+				"storage.type.class.ts"
 			],
 			"settings": {
 				"foreground": "#E03C8A"

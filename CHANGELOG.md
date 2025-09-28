@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.7
+
+- Update semantic property color to teal
+- Adjust colors for Javascript and Typescript keywords, operators, and separators
+
 ## 3.3.6
 
 - Make async modifier syntax consistent in TSX
@@ -10,13 +15,11 @@ Source from: <https://github.com/xshapira/joey>
 - Update highlighting for TSX built-in types
 - Change lua operator color
 
-
 ## 3.3.5
 
 - Update logical operator syntax highlighting for js, jsx, ts, and tsx
 - Update syntax highlighting for TSX primitive types
 - Adjust color for JS/TS key-value separator
-
 
 ## 3.3.4
 

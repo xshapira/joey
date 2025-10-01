@@ -557,7 +557,7 @@
 				"keyword.operator.comparison"
 			],
 			"settings": {
-				"foreground": "#db5594"
+				"foreground": "#C485E4"
 			}
 		},
 		{
@@ -713,7 +713,7 @@
 				"punctuation.separator.key-value.jsx"
 			],
 			"settings": {
-				"foreground": "#db5594"
+				"foreground": "#C485E4"
 			}
 		},
 		{
@@ -766,7 +766,7 @@
 				"punctuation.separator.key-value.tsx"
 			],
 			"settings": {
-				"foreground": "#db5594"
+				"foreground": "#C485E4"
 			}
 		},
 		{
@@ -1032,12 +1032,6 @@
 			"scope": ["keyword.operator.math.rust"],
 			"settings": {
 				"foreground": "#E15C75"
-			}
-		},
-		{
-			"scope": ["keyword.operator.lua"],
-			"settings": {
-				"foreground": "#05BBB8"
 			}
 		}
 	],

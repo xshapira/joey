@@ -2,6 +2,11 @@
 
 Source from: <https://github.com/xshapira/joey>
 
+## 3.3.8
+
+- Align `async` color with storage modifiers
+- Change operator and separator color
+
 ## 3.3.7
 
 - Update semantic property color to teal

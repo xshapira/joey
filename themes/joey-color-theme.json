@@ -742,9 +742,7 @@
 				"keyword.operator.expression.keyof.ts",
 				"storage.type.interface.ts",
 				"keyword.operator.ternary.ts",
-				"keyword.operator.ternary.tsx",
-				"storage.modifier.async.tsx",
-				"storage.modifier.async.ts"
+				"keyword.operator.ternary.tsx"
 			],
 			"settings": {
 				"foreground": "#CA76DB"
@@ -831,7 +829,9 @@
 				"storage.type.ts",
 				"storage.modifier.ts",
 				"storage.type.function.ts",
-				"storage.type.class.ts"
+				"storage.type.class.ts",
+				"storage.modifier.async.tsx",
+				"storage.modifier.async.ts"
 			],
 			"settings": {
 				"foreground": "#E03C8A"
